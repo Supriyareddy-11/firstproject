@@ -1,2 +1,2 @@
 # firstproject
-To learn git
+building first project.
